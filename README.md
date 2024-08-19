@@ -101,7 +101,7 @@ Our method works comparable to LMM models for general questions but outperforms 
 </p>
 
 
-## 📚 Qualitative Examples of Multilingual Capabilities
+## 📚 Qualitative Examples of Capabilities
 
 
 <div aling="center">
