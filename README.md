@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-#### [Muhammad Awais](awaisrauf.github.io), [Ali Husain Salem Abdulla Alharthi ](), [Amandeep Kumar]([aman](https://virobo-15.github.io/)), [Hisham Cholakkal](https://scholar.google.ae/citations?user=bZ3YBRcAAAAJ&hl=fr), [Rao M. Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en)
+#### [Muhammad Awais](awaisrauf.github.io), [Ali Husain Salem Abdulla Alharthi ](), [Amandeep Kumar](https://virobo-15.github.io/), [Hisham Cholakkal](https://scholar.google.ae/citations?user=bZ3YBRcAAAAJ&hl=fr), [Rao M. Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en)
 
 
 ### Vision-language to have expert conversations about agriculture
@@ -104,18 +104,11 @@ Our method works comparable to LMM models for general questions but outperforms 
 
 ## 📚 Qualitative Examples of Multilingual Capabilities
 
-<style>
-    .side-by-side img {
-        width: 40%; /* Adjust the width as needed */
-        margin: 0 2.5%; /* Adds space between images */
-        vertical-align: top; /* Aligns images at the top */
-    }
-</style>
 
 <div aling="center">
-    <div class="side-by-side">
-            <img src="imgs/demo1.png" alt="Image 1">
-            <img src="imgs/demo2.png" alt="Image 2">
+    <div>
+        <img style="width: 40%; margin: 0 2.5%;" src="imgs/demo1.png" alt="Image 1">
+        <img style="width: 40%; margin: 0 2.5%;" src="imgs/demo2.png" alt="Image 2">
         </div>
 </div>
 
