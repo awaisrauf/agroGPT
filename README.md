@@ -6,8 +6,7 @@
 
 #### [Muhammad Awais](awaisrauf.github.io), [Ali Husain Salem Abdulla Alharthi ](), [Amandeep Kumar](https://virobo-15.github.io/), [Hisham Cholakkal](https://scholar.google.ae/citations?user=bZ3YBRcAAAAJ&hl=fr), [Rao M. Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en)
 
-
-### Vision-language to have expert conversations about agriculture
+### Vision-language model to have expert conversations about agriculture
 
 [![Demo](https://img.shields.io/badge/Online-Demo-red)]()
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
@@ -24,8 +23,8 @@
 ## Overview
 
 <div align="center">
-    <p style="width: 80%;">
-    <img src="imgs/main_demo.gif" alt="AgroGPT Demo">
+    <p>
+    <img  width="80%" height="auto" src="imgs/main_demo.gif" alt="AgroGPT Demo">
     </p>
 </div>
 
@@ -37,8 +36,8 @@
 
 ## 📂 AgroInstruct Dataset and Generation Pipeline
 <div align='center'>
-    <p style="width: 70%;">
-    <img src="imgs/domains.png" alt="AgroGPT Demo">
+    <p>
+    <img width="70%" height="auto" src="imgs/domains.png" alt="AgroGPT Demo">
     </p>
 </div>
 
