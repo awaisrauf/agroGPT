@@ -15,7 +15,7 @@
 ---
 
 ## 📢 Latest Updates
-
+- **Nov-24**: Our paper has been accepted at WACV!
 - **Aug-20-24**: AgroGPT demo and webpage are released. Code, pretrained models, and training/evaluation scripts are coming soon!
 
 ---
