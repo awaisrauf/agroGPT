@@ -15,7 +15,7 @@
 ---
 
 ## 📢 Latest Updates
-- **Nov-24**: Our paper has been accepted at WACV!
+- **Jan-08-25**: Our paper has been accepted at WACV, 2025!
 - **Aug-20-24**: AgroGPT demo and webpage are released. Code, pretrained models, and training/evaluation scripts are coming soon!
 
 ---
@@ -103,7 +103,6 @@ Our method works comparable to LMM models for general questions but outperforms 
 
 ## 📚 Qualitative Examples of Capabilities
 
-
 <div aling="center">
     <div>
         <img style="width: 40%; margin: 0 2.5%;" src="imgs/demo1.png" alt="Image 1">
@@ -114,11 +113,10 @@ Our method works comparable to LMM models for general questions but outperforms 
 ## 📜 Citation
 
 ```bibtex
-  @article{awais2024agroGPT,
-  title={},
-  author={},
-  journal={},
-  year={2024},
-  url={}
+@inproceedings{Awais2024agrogpt,
+  title  = {AgroGPT: Efficient Agricultural Vision-Language Model with Expert Tuning},
+  author = {Muhammad Awais and Ali Husain Salem Abdulla Alharthi and Amandeep Kumar and Hisham Cholakkal and Rao Muhammad Anwer},
+  year   = {2025},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision}
 }
 ```
